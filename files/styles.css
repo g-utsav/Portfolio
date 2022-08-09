@@ -143,6 +143,23 @@ img {
     background-color: var(--second-color);
     transition: 0.5s;
   }
+  .home-img{
+    /* margin-left: 0px !important; */
+    position: relative;
+    left: 20%;
+    top: 70%;
+    /* height: 700px; */
+    /* width: 5%; */
+    margin-bottom: auto;
+
+  }
+  .profilepic{
+    height: auto;
+    border-radius: 50%;
+  }
+  #about{
+    margin-top: 70px;
+  }
 }
 .nav-item {
   margin-bottom: var(--mb-4);
